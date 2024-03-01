@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding, video games, and art
 - 🌱 I’m currently learning python, gdscript, and pixel art
 - 💞️ I’m looking to collaborate on ... niche projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ... N/A
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Double Jointed Thumbs
 
 <!---
 Ry-Pereira/Ry-Pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
