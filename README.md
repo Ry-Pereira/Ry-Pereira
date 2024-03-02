@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... niche projects
 - 📫 How to reach me ... N/A
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Double Jointed Thumbs
+- ⚡ Fun fact: ... Double Jointed Thumbs, I can control animals with my mind
 
 <!---
 Ry-Pereira/Ry-Pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
