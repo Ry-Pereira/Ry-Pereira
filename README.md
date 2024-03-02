@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, video games, and art
 - 🌱 I’m currently learning python, gdscript, and pixel art
 - 💞️ I’m looking to collaborate on ... niche projects
-- 📫 How to reach me ... N/A
+- 📫 How to reach me ... If you know me personally, by phone call or message.
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Double Jointed Thumbs, I can control animals with my mind
 
