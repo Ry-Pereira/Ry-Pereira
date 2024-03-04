@@ -5,6 +5,7 @@
 - 📫 How to reach me ... If you know me personally, by phone call or message.
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Double Jointed Thumbs, I can control animals with my mind
+![profile](https://github.com/Ry-Pereira/Ry-Pereira/assets/145312422/0c0bd28d-b45c-47c6-8df1-51be797bcb25)
 
 <!---
 Ry-Pereira/Ry-Pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
