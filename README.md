@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ry-Pereira
-- 👀 I’m interested in coding, video games, and art
-- 🌱 I’m currently learning python, gdscript, and pixel art
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ... niche projects
 - 📫 How to reach me ... If you know me personally, by phone call or message.
 - 😄 Pronouns: ... He/Him
