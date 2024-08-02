@@ -1,10 +1,12 @@
 <h1>👋 Hi, I’m @Ry-Pereira</h1>
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ... niche projects
-- 📫 How to reach me ... If you know me personally, by phone call or message.
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Double Jointed Thumbs, I can control animals with my mind
+<ul>
+<li> 👀 I’m interested in coding.</li>
+<li>  🌱 I’m currently learning python.</li>
+<li>  💞️ I’m looking to collaborate on ... niche projects</li>
+<li>  📫 How to reach me ... If you know me personally, by phone call or message.</li>
+<li>  😄 Pronouns: ... He/Him</li>
+<li>  ⚡ Fun fact: ... Double Jointed Thumbs, I can control animals with my mind</li>
+</ul>
 
 <!---
 Ry-Pereira/Ry-Pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
