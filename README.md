@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in coding.<br><span style = "color:#FF6347">🌱 I’m currently learning and programming in Python,C++,HTML,CSS,JavaScript.</span><br>💞️ I’m looking to collaborate on ... niche projects<br>📫 How to reach me ... If you know me personally, by phone call or message.<br>😄 Pronouns: ... He/Him<br>⚡ Fun fact: ... Double Jointed Thumbs, I can control animals with my mind
+👀 I’m interested in coding.<br>🌱 I’m currently learning and programming in Python,C++,HTML,CSS,JavaScript.<br>💞️ I’m looking to collaborate on ... niche projects<br>📫 How to reach me ... If you know me personally, by phone call or message.<br>😄 Pronouns: ... He/Him<br>⚡ Fun fact: ... Double Jointed Thumbs, I can control animals with my mind
 
 
 # 💻 Tech Stack:
