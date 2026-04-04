@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 $${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$:
 🔭 **I’m currently working on: improving my coding skills and building small projects to grow my portfolio!**<br><br>💞️ I’m looking to collaborate on: beginner-friendly open source projects and creative ideas!<br><br>🤝 I’m looking for help with: writing cleaner code and understanding best practices!<br><br>🌱 I’m currently learning: programming fundamentals and exploring new technologies!<br><br>💬 Ask me about: what I’m building, what I’m learning, or anything tech-related!<br><br>⚡ Fun fact: I enjoy solving problems and figuring out how things work!
 
 
