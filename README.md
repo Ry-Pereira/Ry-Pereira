@@ -1,4 +1,4 @@
-# Welcome To My GitHubg
+# WELCOME TO MY GITHUB
 
 
 # 💫 $${\color{blue}ABOUT\space ME:}$$
