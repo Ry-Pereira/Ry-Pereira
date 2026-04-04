@@ -16,7 +16,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ry-Pereira&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry-Pereira&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ $${\color{violet}RANDOM\space\color{violet}DEV\space\color{violet}QUOTES\space\color{violet}:}$$
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/7725275090b070c1bf185d3f87cac58d98619321/blue_night_sky.gif)
