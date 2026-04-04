@@ -19,6 +19,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/7725275090b070c1bf185d3f87cac58d98619321/blue_night_sky.gif)
+
 
 
 ---
