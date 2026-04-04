@@ -1,5 +1,5 @@
 # 💫 $${\color{blue}ABOUT\space\color{blue}ME\space\color{blue}:}$$
-🔭 **I’m currently working on: improving my coding skills and building small projects to grow my portfolio!**<br><br>💞️ I’m looking to collaborate on: beginner-friendly open source projects and creative ideas!<br><br>🤝 I’m looking for help with: writing cleaner code and understanding best practices!<br><br>🌱 I’m currently learning: programming fundamentals and exploring new technologies!<br><br>💬 Ask me about: what I’m building, what I’m learning, or anything tech-related!<br><br>⚡ Fun fact: I enjoy solving problems and figuring out how things work!
+🔭 ####I’m currently working on: improving my coding skills and building small projects to grow my portfolio!**<br><br>####💞️ I’m looking to collaborate on: beginner-friendly open source projects and creative ideas!<br><br>####🤝 I’m looking for help with: writing cleaner code and understanding best practices!<br><br>####🌱 I’m currently learning: programming fundamentals and exploring new technologies!<br><br>####💬 Ask me about: what I’m building, what I’m learning, or anything tech-related!<br><br>####⚡ Fun fact: I enjoy solving problems and figuring out how things work!
 
 
 ![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/d875492728f63b2aa47af7b5e22c9c052afc8eb5/rainy_day.gif)
