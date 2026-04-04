@@ -11,7 +11,7 @@
 ![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/7e25e2e8c26b3fc80c4fbf6aaccd4e37c8d975e7/at_desk_at_night.gif)
 
 
-# 📊 GitHub Stats:
+# 📊 $${\color{lime}GITHUB\space\color{lime}STATS\space\color{lime}:}$$
 ![](https://github-readme-stats.vercel.app/api?username=Ry-Pereira&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ry-Pereira&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry-Pereira&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
