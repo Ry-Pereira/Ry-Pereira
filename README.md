@@ -1,4 +1,4 @@
-# 🌌$${\color{red}WELCOME\space\color{red}TO\space\color{red}MY\space\color{red}GITHUB}$$
+# 🌌 $${\color{red}{WELCOME TO MY GITHUB}}$$
 ![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/698ade2c0dfcdc13e207c280865472b1361b6626/waves.gif)
 
 
