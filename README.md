@@ -33,8 +33,12 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ry-Pereira&theme=tokyonight&hide_border=false)<br/>
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry-Pereira&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/Ry-Pereira/github-stats">
+<img src="https://github.com/Ry-Pereira/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Ry-Pereira/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/Ry-Pereira/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/Ry-Pereira/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
 
 ![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/6ac9c60bdfd18c3da41bcb222495de36c86c9330/coding_at_night.gif)
 
