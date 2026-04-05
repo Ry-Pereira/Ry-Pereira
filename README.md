@@ -36,6 +36,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ry-Pereira&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/6ac9c60bdfd18c3da41bcb222495de36c86c9330/coding_at_night.gif)
+
 # ✍️ RANDOM QUOTE
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
