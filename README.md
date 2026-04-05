@@ -28,17 +28,16 @@
 
 # 📊 GITHUB STATS
 
-![](https://github-readme-stats.vercel.app/api?username=Ry-Pereira&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://raw.githubusercontent.com/Ry-Pereira/github-stats/main/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Ry-Pereira/github-stats/main/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/Ry-Pereira/github-stats/main/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Ry-Pereira/github-stats/main/generated/languages.svg#gh-light-mode-only)
 
 
 
 
-<a href="https://github.com/Ry-Pereira/github-stats">
-<img src="https://github.com/Ry-Pereira/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Ry-Pereira/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/Ry-Pereira/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/Ry-Pereira/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
+
 
 ![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/6ac9c60bdfd18c3da41bcb222495de36c86c9330/coding_at_night.gif)
 
