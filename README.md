@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ry-Pereira&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ry-Pereira&theme=tokyonight&hide_border=false)<br/>
+
 
 <a href="https://github.com/Ry-Pereira/github-stats">
 <img src="https://github.com/Ry-Pereira/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
