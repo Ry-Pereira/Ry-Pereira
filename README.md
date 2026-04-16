@@ -1,7 +1,7 @@
 # 🌌 WELCOME TO MY GITHUB
 
 ![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/698ade2c0dfcdc13e207c280865472b1361b6626/waves.gif)
-![image_alt]([https://github.com/Ry-Pereira/Ry-Pereira/blob/698ade2c0dfcdc13e207c280865472b1361b6626/waves.gif](https://github.com/Ry-Pereira/Ry-Pereira/blob/518307db3d913ea0799671115ad5a7158dc1c16d/rgb.gif))
+![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/518307db3d913ea0799671115ad5a7158dc1c16d/rgb.gif)
 
 # 💫 ABOUT ME
 
