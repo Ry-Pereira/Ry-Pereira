@@ -15,7 +15,7 @@
 
 ### 💬 Ask me about: what I’m building, what I’m learning, or anything tech-related!
 
-### 🎵 Music: I'm really into MidWest Emo and Hyperpo.
+### 🎵 Music: I'm really into MidWest Emo and Hyperpop.
 
 ### ⚡ Fun fact: I enjoy solving problems and figuring out how things work!
 
