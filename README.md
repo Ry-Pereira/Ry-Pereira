@@ -17,18 +17,7 @@
 
 ### ⚡ Fun fact: I enjoy solving problems and figuring out how things work!
 
-      @@@@            @@@@
-     @@@@@@          @@@@@@
-     @@@@@@          @@@@@@
-      @@@@            @@@@
 
-
-
-@                             @
- @@                         @@
-   @@@                   @@@
-      @@@@@         @@@@@
-         @@@@@@@@@@@@@
 
 
 
