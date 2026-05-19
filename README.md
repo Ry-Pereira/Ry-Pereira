@@ -4,7 +4,7 @@
 ![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/032749ffcca14b544bb529434b2ee0b5ba8c72a5/cat.gif)
 
 
-# 💫 ABOUT ME
+# 🔵 🟦 🩵 💙 ABOUT ME 💙 🩵 🟦 🔵
 
 ### 🔭 I’m currently working on: improving my coding skills and building small projects to grow my portfolio!
 
