@@ -1,4 +1,4 @@
-# 🔵🟦🔴🟥🟢🟩🟠🟧⋆˚࿔ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝜗𝜚˚⋆🟦🔵🟥🔴🟩🟢🟧🟠  
+# 🔵🔴🟢🟠⋆˚࿔ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝜗𝜚˚⋆🔵🔴🟢🟠  
 
 ![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/698ade2c0dfcdc13e207c280865472b1361b6626/waves.gif)
 ![image_alt](https://github.com/Ry-Pereira/Ry-Pereira/blob/032749ffcca14b544bb529434b2ee0b5ba8c72a5/cat.gif)
